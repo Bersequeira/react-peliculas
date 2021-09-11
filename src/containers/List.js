@@ -4,7 +4,7 @@ import Card from '../components/card/Card';
 
 //console.log(process.env.API);
 
-const API = 'http://www.omdbapi.com/?i=tt3896198&apikey=e6db1a5'
+const API = 'https://www.omdbapi.com/?i=tt3896198&apikey=e6db1a5';
 
 //const API = process.env.API;
 
